@@ -1,12 +1,10 @@
 # Generated via autodoc/admin-api/generate.lua
-- title: Admin API
-  url: /admin-api/
-  items:
-    - text: DB-less
-      url: /db-less-admin-api
+
+    - text: DB-less Mode
+      url: /admin-api/#db-less-mode
 
     - text: Declarative Configuration
-      url: /db-less-admin-api/#declarative-configuration
+      url: /admin-api/#declarative-configuration
 
     - text: Supported Content Types
       url: /admin-api/#supported-content-types
